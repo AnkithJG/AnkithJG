@@ -12,16 +12,13 @@
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithJG&theme=nightowl&hide_border=false" alt="ankith's streak" />
 </td> -->
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ryanpolasky&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
 </p>
 <br>
 
-***Profile Views***:
-
-<img alt="visitors counter" src="https://profile-counter.glitch.me/ryanpolasky/count.svg">
 
 <!--
 **AnkithJG/AnkithJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
