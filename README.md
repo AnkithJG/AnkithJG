@@ -7,7 +7,7 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=onedark&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithJG&theme=nightowl&hide_border=false" alt="ankith's streak" />
 </td> -->
 <td width="50%" align="center">
