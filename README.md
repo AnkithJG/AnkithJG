@@ -3,19 +3,11 @@
 
 ## Github Stats
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithJG&theme=nightowl&hide_border=false" alt="ankith's streak" />
-</td> -->
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=dracula&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
 </p>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=dracula&hide_border=false&langs_count=10" />
+</p>
 
 
 <!--
