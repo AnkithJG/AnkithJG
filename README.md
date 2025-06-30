@@ -2,9 +2,7 @@
 
 
 ## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
-</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkithJG&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithJG&layout=compact&theme=dracula&hide_border=true" /></a>
 
 
