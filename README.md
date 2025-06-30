@@ -1,7 +1,7 @@
 # Heya, I'm Ankith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <br>
-***Github Stats***
+##Github Stats
 <br>
 <p align="center">
 <table align="center">
@@ -11,7 +11,7 @@
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithJG&theme=nightowl&hide_border=false" alt="ankith's streak" />
 </td> -->
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=tokynight&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=dracula&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
