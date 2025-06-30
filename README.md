@@ -8,6 +8,18 @@
 | ------------- | ------------- |
 </div>
 
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithJG&layout=compact&theme=dracula&hide_border=true"/>
+</td>
+</tr>
+</table>
+</p>
+
 <!--
 **AnkithJG/AnkithJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
