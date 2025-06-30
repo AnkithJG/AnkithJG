@@ -3,12 +3,13 @@
 
 ## Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
+  <span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkithJG&theme=dracula&show_icons=true&count_private=true" />
+  </span>
+  <span>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=dracula&hide_border=false&langs_count=10" />
+  </span>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnkithJG&theme=dracula&hide_border=false&langs_count=10" />
-</p>
-
 
 <!--
 **AnkithJG/AnkithJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
